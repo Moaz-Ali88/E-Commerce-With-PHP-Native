@@ -64,7 +64,7 @@ Follow these steps to set up and run the project locally using XAMPP:
 
 •Click on the "Import" tab at the top.
 
-•Click Choose File and select the .sql file located in your project directory (e.g., database.sql or db/import.sql).
+•Click Choose File and select the .sql file located in your project directory (the_project.sql).
 
 •Scroll down and click Go to import the database.
 
