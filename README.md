@@ -32,6 +32,8 @@
 
 •Relational database with well-defined entity relationships.
 
+•Upload images to the products.
+
 •AJAX-powered interface for seamless user interactions in contact page.
 
 •Scalable architecture ready for future growth and integrations.
