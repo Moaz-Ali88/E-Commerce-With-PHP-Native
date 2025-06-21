@@ -113,6 +113,6 @@ It will display to you the login system
 
 •Then after logging in with these accounts you will have the full access.
 
-<h1>5-The Conclusion</h1>
+<h1>5-Conclusion</h1>
 
 •Thank you for taking the time to explore this project. We hope you find it useful and easy to set up. Feel free to contribute, suggest improvements, or report any issues. Happy coding!
