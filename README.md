@@ -84,12 +84,35 @@ $password = '';
 <h3>6. Run the Project</h3>
 •Open your browser and navigate to your project’s URL:
 
-
 http://localhost/E-Commerce-With-PHP-Native-main
 
 <h1>4-How To Reach The Dashboard</h1>
 
+•After you run the apache and mysql open your browser and navigate to your project’s URL:
+
+http://localhost/E-Commerce-With-PHP-Native-main/admin
+
+It will display to you the login system
+
+•If you created an account from the facade your privligs will be (user) and then you can login in the admin login system and go to the dashboard but you can't go to the products page, users page and categories page becouse the entry authorized only for the owner and supervisar you just can go to messages page and dashboard page.
+
+•For reach the all pages in the dashboard and be able to insert, update and delete any data from the dashboard and the database here you are the accounts of owner and supervisor:
+
+<h5>1-The Owner:</h5>
+
+•username: Moaz
+
+•password: 123
 
 
+<h5>2- The Supervisor:</h5>
 
+•username: Ahmed
 
+•password: 456
+
+•Then after logging in with these accounts you will have the full access.
+
+<h1>5-The Conclusion</h1>
+
+•Thank you for taking the time to explore this project. We hope you find it useful and easy to set up. Feel free to contribute, suggest improvements, or report any issues. Happy coding!
